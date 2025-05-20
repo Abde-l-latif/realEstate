@@ -15,7 +15,7 @@ import { PersistGate } from "redux-persist/integration/react";
 import PrivateProfile from "./components/PrivateProfile.jsx";
 import CreateListing from "./pages/createListing.jsx";
 import UpdateListing from "./pages/UpdateListing.jsx";
-import Listing from "./pages/listing.jsx";
+import Listing from "./pages/Listing.jsx";
 import Search from "./pages/Search.jsx";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
